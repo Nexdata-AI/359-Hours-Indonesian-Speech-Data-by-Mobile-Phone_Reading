@@ -4,7 +4,7 @@
 ## Description
 Indonesia speech data (reading) is collected from 496 Indonesian native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as econimics, entertainment, news, figure, letter, and oral. Around 400 sentences for each speaker. The valid data volumn is 360 hours. All texts are manual transcribed with high accuray.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/71?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/71?source=Github
 
 
 ## Format
